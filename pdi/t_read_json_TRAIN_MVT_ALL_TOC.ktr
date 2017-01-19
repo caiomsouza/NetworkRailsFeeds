@@ -145,7 +145,7 @@
     <defaultPathLeafToNull>N</defaultPathLeafToNull>
     <rownum_field/>
     <file>
-      <name>C&#x3a;&#x5c;Users&#x5c;csouza&#x5c;workspace&#x5c;NetworkRailFeeds&#x5c;networkrails.json</name>
+      <name>&#x24;&#x7b;NR_FILES&#x7d;&#x5c;networkrails.json</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
